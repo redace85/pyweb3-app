@@ -157,3 +157,10 @@ cython_debug/
 # venv
 bin/
 pyvenv.cfg
+
+# jupyter
+etc/
+share/
+
+# account data
+src/acc.txt
